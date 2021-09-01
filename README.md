@@ -1,4 +1,4 @@
-#<h1 align="center>React Stepper Form with React-hook-form</h1>
+# <h1 align="center>React Stepper Form with React-hook-form</h1>
 
 ## Table of Contents
 
