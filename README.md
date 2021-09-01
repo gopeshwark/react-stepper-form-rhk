@@ -1,4 +1,8 @@
+#<h1 align="center>React Stepper Form with React-hook-form</h1>
+
 ## Table of Contents
+
+---
 
 1. [General Info](#general-info)
 2. [Technologies](#technologies)
@@ -13,6 +17,8 @@
 This project aims at creating a simple stepper user form for practice purpose to understand the react, material-ui and react-hook-form.
 
 ### Screenshot
+
+---
 
 #### Basic Information Page
 
