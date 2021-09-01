@@ -322,7 +322,7 @@ const StepperForm = () => {
             Thank You
           </Typography>
           <Link href="">
-            <Button variant="contained" color="secondary">
+            <Button variant="contained" mt="2" color="secondary">
               Home
             </Button>
           </Link>
