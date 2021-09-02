@@ -291,7 +291,7 @@ const StepperForm = () => {
 
   const handleNextStep = (data) => {
     if (activeStep == steps.length - 1) {
-      alert(JSON.stringify(data));
+      alert(`Name: ${data.firstName} ${data.lastName}`);
       setActiveStep(activeStep + 1);
     }
 
